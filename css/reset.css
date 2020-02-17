@@ -161,7 +161,7 @@ header {
 	color:#000000;
 }
 .cd-dropdown h2 span{
-	color:#23c0e9;
+	color:#F7A400;
 }
 .cd-dropdown .cd-close {
   /* 'X' close icon - mobile version only */
@@ -964,7 +964,7 @@ header {
     transition: all 0.5s;
 }
 .cd-dropdown-content li a:hover{
-	background:#23c0e9;
+	background:#F7A400;
 	color:#ffffff;
 	    -webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
